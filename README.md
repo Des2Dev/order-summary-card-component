@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL here](https://your-solution-url.com)
+- [Solution URL here](https://www.frontendmentor.io/solutions/mobilefirst-order-summary-card-using-flexbox-and-bem-RBXprPc5uo)
 - [Live site URL here](https://des2dev.github.io/order-summary-card-component/)
 
 ## My process
